@@ -1,0 +1,2 @@
+# tokenomics
+Nitroken Token Economics
